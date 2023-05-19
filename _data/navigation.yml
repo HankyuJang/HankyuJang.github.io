@@ -18,9 +18,9 @@ main:
   #- title: "Project"
     #url: /project/
         
-  - title: "CV"
+  - title: "Resume"
     #url: /cv/
-    url: /files/HankyuJang_CV.pdf
+    url: /files/HankyuJang_resume.pdf
     
   #- title: "Blog Posts"
     #url: /year-archive/
