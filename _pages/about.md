@@ -29,7 +29,7 @@ In my free time, I enjoy playing musical instruments, such as classical guitar (
 I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
 I run half marathons regularly.
 - 2022 Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0?t=5678), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1)
-- 2023 Drop 13 Record ![record](http://HankyuJang.github.io/files/marathon/2023_drop13_half_record.pdf)
+- 2023 Drop 13 Record [record](http://HankyuJang.github.io/files/marathon/2023_drop13_half_record.pdf)
 ![Marathon](http://HankyuJang.github.io/images/marathon.PNG)
 
 Recently, I completed 2023 Tri-owa Indoor Triathlon
