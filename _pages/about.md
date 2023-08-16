@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Bio
-======
 I'm a PhD candidate in Computer Science at the University of Iowa, advised by [Dr. Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) at the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
 
 Industry Experience
 ======
-As of summer 2023, I'm currently working as a Machine Learning Intern at Pivot Bio.
-In summer 2022, I worked as an Applied Scientist Intern at Amazon in the Buyer Risk Prevention team. 
+As of fall 2023, I'm on my final semester, preparing for the defense.
+In summer 2023, I worked as a Machine Learning Intern at [Pivot Bio](https://www.pivotbio.com/). I discovered key features that affect product performance, from the feature engineering and ML modeling pipeline that I implemented, which trains 115 ML models on 672 datasets.
+In summer 2022, I worked as an Applied Scientist Intern at Amazon in the Buyer Risk Prevention team.
 I built a scalable fraud community detection pipeline by applying the state of the art techniques in graph mining.
 In the summer of 2021, I worked as a Machine Learning and Data Science Intern at [ML team @ AmFam](https://www.ai-ml-amfam.com/team). I applied the graph attention network to detect suspicious data entries in the claims dataset.
 
