@@ -10,11 +10,11 @@ author_profile: true
 Best Papers
 ======
 
-- Top 2 among student papers: <strong>Hankyu Jang</strong>, et al., &quot;Dynamic Healthcare Embeddings for Improving Patient Care&quot; <i>ASONAM 2022</i>' 
+- Top 2 among student papers: <strong>Hankyu Jang</strong>, et al., &quot;Dynamic Healthcare Embeddings for Improving Patient Care&quot; <i>ASONAM 2022</i>
   - [pdf](http://HankyuJang.github.io/files/paper/no_copyright_ASONAM22_dynamic_healthcare_embeddings_for_improving_patient_care.pdf) [code](https://github.com/HankyuJang/DECEnt-dynamic-healthcare-embeddings)
-- One of the best ranked papers: <strong>Hankyu Jang</strong>, et al., &quot;Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases&quot; ICDM 2021</i>
+- One of the best ranked papers: <strong>Hankyu Jang</strong>, et al., &quot;Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases&quot; <i>ICDM 2021</i>
   - [pdf](http://HankyuJang.github.io/files/paper/ICDM21_asymptomatic_case_detection_PCST.pdf) [code](https://github.com/HankyuJang/directed-PCST-asymptomatic-detection)
-- Best Paper Awards: <strong>Hankyu Jang</strong> &quot;Evaluating architectural changes to alter pathogen dynamics in a dialysis unit&quot;ASONAM 2019</i> 
+- Best Paper Awards: <strong>Hankyu Jang</strong> &quot;Evaluating architectural changes to alter pathogen dynamics in a dialysis unit&quot;<i>ASONAM 2019</i> 
   - [pdf](http://HankyuJang.github.io/files/paper/ASONAM19_MRSA_modeling_architecture_change.pdf)
 
 Big Data Challenge: <strong>First Place</strong> in 2017 Indiana Medicaid Data Challenge
