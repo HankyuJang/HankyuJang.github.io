@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in Computer Science at the University of Iowa, advised by [Dr. Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely working with [Dr. Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) at the Computational Epidemiology research lab. I'm also a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
+I'm working as an Applied Scientist at Amazon in the Buyer Risk Prevention team.
+
+I received PhD in Computer Science at the University of Iowa, advised by [Dr. Segre](https://cs.uiowa.edu/people/alberto-segre), [Dr. Pemmaraju](https://cs.uiowa.edu/people/sriram-pemmaraju), and closely worked with [Dr. Adhikari](https://cs.uiowa.edu/people/bijaya-adhikari) at the Computational Epidemiology research lab. I was a member of the [AlgoEpi reading group](https://compepiuiowa.github.io/reading-group/) that discuss techniques from algorithms, data mining, and ML that can be applied to problems related to the spread of infections.
 
 Industry Experience
 ======
-As of fall 2023, I'm on my final semester, preparing for the defense.
+Currently, I'm working as an Applied Scientist at Amazon in the Buyer Risk Prevention team.
 In summer 2023, I worked as a Machine Learning Intern at [Pivot Bio](https://www.pivotbio.com/). I discovered key features that affect product performance, from the feature engineering and ML modeling pipeline that I implemented, which trains 115 ML models on 672 datasets.
 In summer 2022, I worked as an Applied Scientist Intern at Amazon in the Buyer Risk Prevention team.
 I built a scalable fraud community detection pipeline by applying the state of the art techniques in graph mining.
@@ -20,11 +22,12 @@ In the summer of 2021, I worked as a Machine Learning and Data Science Intern at
 
 PhD Research
 ======
-My focus is machine learning on graphs (or graph mining), such as social networks and people-to-people contact networks. Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). I also have experience developing methods for submodular function optimization and applying them to detect infection sources of outbreaks - a collaborative work with Georgia Tech and University of Virginia members. Finally, I have developed agent-based simulators to propose intervention strategies to slow down the spread of target infectious diseases ([COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
+My PhD research was in machine learning on graphs (or graph mining), such as social networks and people-to-people contact networks. Graph mining includes learning representations (e.g., node or graph level), link prediction (e.g., recommender system), node classification (e.g., predicting the onset of disease on the patient network), and information diffusion (e.g., the understanding spread of infectious disease such as COVID-19). I also have experience developing methods for submodular function optimization and applying them to detect infection sources of outbreaks - a collaborative work with Georgia Tech and University of Virginia members. Finally, I have developed agent-based simulators to propose intervention strategies to slow down the spread of target infectious diseases ([COVID-19 simulator](https://github.com/HankyuJang/Dialysis_COVID19)).
 
 Extracurricular activities
 ======
 In my free time, I enjoy playing musical instruments, such as classical guitar (me, playing Kleine Romanze at a concert during college: [youtube](https://youtu.be/gUUJiO6dBcM)). 
+I like trying out new sports. I started indoor climing recently.
 I'm a runner - I run outdoors regularly, with my Garmin forerunner running watch.
 I run half marathons regularly.
 - 2022 Hot Cider Half Marathon Finishline [youtube](https://youtu.be/X_K269BE1C0?t=5678), Record [record](https://results.truetimeracing.com/MyResults.aspx?uid=16535-1068-2-77770&yt=1)
